@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KriauteVIZ.CSharp.Plugins", "KriauteVIZ.CSharp.Plugins.csproj", "{79DA410E-C34D-847C-C11B-B3BEBF027BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KriauteVIZ.CSharp", "KriauteVIZ.CSharp.csproj", "{45A593FE-CC90-41FE-C1E3-C4B6E78E3AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KriauteVIZ.CSharp.Editor", "KriauteVIZ.CSharp.Editor.csproj", "{F22885AB-550C-1E7B-EFF4-E1E37BA32FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DA410E-C34D-847C-C11B-B3BEBF027BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DA410E-C34D-847C-C11B-B3BEBF027BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DA410E-C34D-847C-C11B-B3BEBF027BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DA410E-C34D-847C-C11B-B3BEBF027BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A593FE-CC90-41FE-C1E3-C4B6E78E3AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A593FE-CC90-41FE-C1E3-C4B6E78E3AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A593FE-CC90-41FE-C1E3-C4B6E78E3AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A593FE-CC90-41FE-C1E3-C4B6E78E3AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22885AB-550C-1E7B-EFF4-E1E37BA32FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22885AB-550C-1E7B-EFF4-E1E37BA32FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22885AB-550C-1E7B-EFF4-E1E37BA32FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22885AB-550C-1E7B-EFF4-E1E37BA32FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
